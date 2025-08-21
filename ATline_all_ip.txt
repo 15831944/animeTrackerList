@@ -37,3 +37,5 @@ http://91.230.210.146/announce
 http://93.88.129.16/announce
 
 
+
+http://mp9f95qlr5w6g9:y1elpx1zic9qvx@p.proxik.cloud:8080
